@@ -1,35 +1,75 @@
-# Hi there, I'm Veeresh! 👋
+<div align="center">
 
-### 👨‍💻 About Me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veereshbadiger/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veereshbadiger38@gmail.com)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Veeresh+%F0%9F%91%8B;Full+Stack+Developer+from+India;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Web+Apps+%26+AI)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+I am a **Full Stack Developer** from **Bengaluru, India** 🇮🇳
+
 - 🔭 I'm currently working on **chatbotApi** and **Spring Boot microservices**
 - 🌱 I'm currently learning **AI integrations & scalable web architectures**
-- 👯 I'm looking to collaborate on **Open Source projects**
 - 💬 Ask me about **Java, Spring Boot, React, TypeScript**
-- 📫 How to reach me: **[veereshbadiger38@gmail.com](mailto:veereshbadiger38@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/veereshbadiger/)**
-- 📍 Based in **Bengaluru, India**
+- 👯 Looking to collaborate on **Open Source projects**
+- ☕ I love Black Coffee...
+- 📫 Reach me at **[veereshbadiger38@gmail.com](mailto:veereshbadiger38@gmail.com)**
 
-> Full-stack developer passionate about building scalable web apps and exploring AI.
-
----
-
-### 🛠 Tech Stack
-
-**Backend**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
-**Frontend**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+```java
+System.out.println("OLA!!!");
+```
 
 ---
 
-### 🚀 Projects
+## 🌐 Languages and Tools 🌐
+
+<div align="center">
+
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Python](https://skillicons.dev/icons?i=python)
+
+</div>
+
+---
+
+## 👉 My Stats 👈
+
+<div align="center">
+
+![Veeresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veereshbadiger&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veereshbadiger&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Veereshbadiger&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -40,15 +80,8 @@
 | [com.reactApp](https://github.com/Veereshbadiger/com.reactApp) | React web application | TypeScript |
 | [Counter](https://github.com/Veereshbadiger/Counter) | Counter app | TypeScript |
 
----
+<div align="center">
 
-### 📊 GitHub Stats
-![Veeresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veereshbadiger&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veereshbadiger&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=Veereshbadiger&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Veereshbadiger&color=blueviolet&style=for-the-badge)
 
----
-
-### 🤝 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/veereshbadiger/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/YOUR_USERNAME)
+</div>
