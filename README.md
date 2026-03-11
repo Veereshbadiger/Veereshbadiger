@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Veeresh+%F0%9F%91%8B;Full+Stack+Developer+from+India;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Web+Apps+%26+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Veeresh+%F0%9F%91%8B;Full+Stack+Developer+from+India;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Web+Apps+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
