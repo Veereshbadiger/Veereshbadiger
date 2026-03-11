@@ -1,20 +1,44 @@
 # Hi there, I'm Veeresh! 👋
 
 ### 👨‍💻 About Me
-- 🔭 I'm currently working on **[Insert Project Name]**
-- 🌱 I'm currently learning **[Insert Technology, e.g., React, Go, or AWS]**
+- 🔭 I'm currently working on **chatbotApi** and **Spring Boot microservices**
+- 🌱 I'm currently learning **AI integrations & scalable web architectures**
 - 👯 I'm looking to collaborate on **Open Source projects**
-- 💬 Ask me about **[Insert your expertise, e.g., Python, Web Dev]**
+- 💬 Ask me about **Java, Spring Boot, React, TypeScript**
 - 📫 How to reach me: **[Your Email or LinkedIn Link]**
+- 📍 Based in **Bengaluru, India**
+
+> Full-stack developer passionate about building scalable web apps and exploring AI.
 
 ---
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Backend**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [chatbotApi](https://github.com/Veereshbadiger/chatbotApi) | Chatbot backend API | Java |
+| [com.springApi.app](https://github.com/Veereshbadiger/com.springApi.app) | Spring Boot REST API | Java |
+| [demoSpring](https://github.com/Veereshbadiger/demoSpring) | Spring Boot demo app | Java |
+| [Tesaract_OCR](https://github.com/Veereshbadiger/Tesaract_OCR) | OCR using Tesseract | Java |
+| [com.reactApp](https://github.com/Veereshbadiger/com.reactApp) | React web application | TypeScript |
+| [Counter](https://github.com/Veereshbadiger/Counter) | Counter app | TypeScript |
 
 ---
 
