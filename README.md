@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **AI integrations & scalable web architectures**
 - 👯 I'm looking to collaborate on **Open Source projects**
 - 💬 Ask me about **Java, Spring Boot, React, TypeScript**
-- 📫 How to reach me: **[Your Email or LinkedIn Link]**
+- 📫 How to reach me: **[veereshbadiger38@gmail.com](mailto:veereshbadiger38@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/veereshbadiger/)**
 - 📍 Based in **Bengaluru, India**
 
 > Full-stack developer passionate about building scalable web apps and exploring AI.
@@ -49,5 +49,5 @@
 ---
 
 ### 🤝 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_USERNAME)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/veereshbadiger/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/YOUR_USERNAME)
